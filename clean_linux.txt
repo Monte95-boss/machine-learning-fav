@@ -18,3 +18,5 @@ sudo ./remove_snaps.sh
 du -sh ~/.cache/thumbnails
 
 rm -rf ~/.cache/thumbnails/*
+
+BABABABABABABABABABABABABABABA
